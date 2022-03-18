@@ -1,0 +1,1 @@
+# nextjs-protect-api-key
